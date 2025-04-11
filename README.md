@@ -6,9 +6,9 @@ This project focuses on detecting Pneumonia using chest X-ray images and deep le
 ## 📂 Dataset
 We used a publicly available dataset from Kaggle, which contains a total of 5,856 chest X-ray images.
 
-## Pneumonia cases: 4,624 images (≈ 79%)
+### Pneumonia cases: 4,624 images (≈ 79%)
 
-## Normal cases: 1,232 images (≈ 21%)
+### Normal cases: 1,232 images (≈ 21%)
 
 This imbalance in class distribution was taken into account during model evaluation.
 
@@ -23,7 +23,7 @@ Python
 
 - Matplotlib
 
--  Seaborn for visualization (optional)
+- Seaborn for visualization 
 
 ![Metrics and Charts](https://github.com/user-attachments/assets/478f57c5-a5c4-4e18-945e-4ed6de506e85)
 
